@@ -1,2 +1,0 @@
-# verilog-codes
-ncjc
